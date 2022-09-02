@@ -1667,13 +1667,13 @@ body {
       from(rgba(220, 227, 230, 0.601)),
       to(rgba(185, 198, 203, 0.608))
     ),
-    url(../img/tb4.jpg);
+    url(tb4.jpg);
   background-image: linear-gradient(
       to right bottom,
       rgba(220, 227, 230, 0.601),
       rgba(185, 198, 203, 0.608)
     ),
-    url(../img/tb4.jpg);
+    url(tb4.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -1697,13 +1697,13 @@ body {
         from(rgba(220, 227, 230, 0.601)),
         to(rgba(185, 198, 203, 0.608))
       ),
-      url(../img/tb4.jpg);
+      url(tb4.jpg);
     background-image: linear-gradient(
         to right bottom,
         rgba(220, 227, 230, 0.601),
         rgba(185, 198, 203, 0.608)
       ),
-      url(../img/tb4.jpg);
+      url(tb4.jpg);
   }
 }
 @media only screen and (max-width: 37.5em) {
